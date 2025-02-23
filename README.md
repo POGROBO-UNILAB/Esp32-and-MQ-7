@@ -1,4 +1,4 @@
-![BannerProject](https://raw.githubusercontent.com/leonardoalvessousa/RaspAsmBareMetal/refs/heads/main/rpiIMG.jpg)
+![BannerProject](https://raw.githubusercontent.com/POGROBO-UNILAB/Esp32-and-MQ-7/refs/heads/main/img/banner.jpg)
 
 ---
 
@@ -9,7 +9,7 @@ Este projeto demonstra a leitura da concentração de Monóxido de Carbono (CO) 
 
 ## Esquemático
 
-![BannerProject](https://raw.githubusercontent.com/leonardoalvessousa/RaspAsmBareMetal/refs/heads/main/rpiIMG.jpg)
+![BannerProject](https://raw.githubusercontent.com/POGROBO-UNILAB/Esp32-and-MQ-7/refs/heads/main/img/esquematico.jpg)
 
 ## Ambiente de Desenvolvimento e Bibliotecas
 
@@ -58,3 +58,4 @@ MQ7.serialDebug();
 delay(500);
 }
 ```
+---
