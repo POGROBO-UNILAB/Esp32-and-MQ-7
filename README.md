@@ -1,4 +1,4 @@
-![BannerProject](https://raw.githubusercontent.com/POGROBO-UNILAB/Esp32-and-MQ-7/refs/heads/main/img/bannerUpdate.jpg)
+![BannerProject](https://raw.githubusercontent.com/POGROBO-UNILAB/Esp32-and-MQ-7/refs/heads/main/img/BannerAruanaUpdate.jpg)
 
 ---
 
