@@ -99,4 +99,8 @@ void loop() {
 
 ## 🚀 Agradecimentos
 
-  >Este projeto foi baseado na iniciativa Ribbit Network! 
+  >Este projeto foi baseado na iniciativa Ribbit Network!
+
+## Citação
+
+>Projeto de extensão Ensino de Programação e Robótica nas Escolas Públicas (PROGROBÔ)/UNILAB. (2025). Esp32-and-MQ-7 (v1.0.0.0). Zenodo. https://doi.org/10.5281/zenodo.15126879
